@@ -5,7 +5,6 @@
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
@@ -13,7 +12,7 @@
     <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="e67182" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="-3d07f708:1706ae4e5e1:-8000" />
     <option name="version" value="4.11.5" />
   </component>
