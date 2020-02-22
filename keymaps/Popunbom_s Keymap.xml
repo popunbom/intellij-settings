@@ -116,6 +116,9 @@
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" second-keystroke="ctrl open_bracket" />
+  </action>
   <action id="RunClass" />
   <action id="RunDashboard.Run" />
   <action id="SearchEverywhere">
