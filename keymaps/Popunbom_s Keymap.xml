@@ -6,6 +6,7 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl at" />
   </action>
+  <action id="ChooseRunConfiguration" />
   <action id="CollapseAll" />
   <action id="CollapseExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
@@ -115,12 +116,8 @@
   </action>
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
-  <action id="Run">
-    <keyboard-shortcut first-keystroke="shift ctrl r" />
-  </action>
-  <action id="RunClass">
-    <keyboard-shortcut first-keystroke="ctrl r" />
-  </action>
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
