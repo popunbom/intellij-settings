@@ -6,6 +6,7 @@
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl at" />
   </action>
+  <action id="CheckinProject" />
   <action id="ChooseRunConfiguration" />
   <action id="CollapseAll" />
   <action id="CollapseExpandableComponent">
@@ -76,6 +77,9 @@
   </action>
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta c" />
   </action>
   <action id="ExecuteInPyConsoleAction">
     <keyboard-shortcut first-keystroke="shift alt e" />
