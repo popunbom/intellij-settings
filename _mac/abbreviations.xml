@@ -1,15 +1,17 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="SplitVertically">
-        <abbreviation name=":sv" />
-      </action>
-      <action id="SplitHorizontally">
-        <abbreviation name=":sh" />
-      </action>
+      <action id="SplitHorizontally" />
       <action id="UnsplitAll">
         <abbreviation name=":s0" />
       </action>
+      <action id="MoveTabRight">
+        <abbreviation name=":sv" />
+      </action>
+      <action id="MoveTabDown">
+        <abbreviation name=":sh" />
+      </action>
+      <action id="SplitVertically" />
     </abbreviations>
   </component>
 </application>
