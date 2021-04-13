@@ -9,6 +9,11 @@
   <action id="CheckinProject" />
   <action id="ChooseRunConfiguration" />
   <action id="CollapseAll" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta subtract" />
+    <keyboard-shortcut first-keystroke="shift meta minus" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta 0" />
+  </action>
   <action id="CollapseExpandableComponent">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
