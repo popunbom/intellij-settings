@@ -119,9 +119,6 @@
     <keyboard-shortcut first-keystroke="shift alt tab" />
     <keyboard-shortcut first-keystroke="ctrl meta open_bracket" />
   </action>
-  <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="ctrl meta r" />
-  </action>
   <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta r" />
@@ -150,6 +147,7 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="ServiceView.GroupByContributor" />
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
@@ -161,6 +159,7 @@
   </action>
   <action id="Switcher" />
   <action id="ToggleBookmark0" />
+  <action id="UsageGrouping.UsageType" />
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="shift meta comma" />
   </action>
